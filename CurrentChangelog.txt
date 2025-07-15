@@ -1,0 +1,50 @@
+[*] Added several new characters
+[list]
+    [*] Ichigo Kurosaki (Shikai)
+    [*] Ichigo Kurosaki (Early Bankai)
+    [*] Zangetsu (Shikai)
+    [*] Renji Abarai (Shikai)
+    [*] Luppi Antenor (Resurrección)
+    [*] Ichigo Kurosaki (True Shikai)
+[/list]
+[*] Fixed a ton of bugs that I forgot to document
+[*] Added eye movement system
+[*] Fixed Soi-Fon being able to use her insta-kill on targets with spirit energy way higher than hers
+[*] Fixed Gin's attacks missing most of the time
+[*] Overall animation adjustments
+[*] Added new walk animations for Ichigo (Vasto-Lorde) and Zangetsu (Vasto-Lorde)
+[*] Added transcendent clashing
+[*] Overhauled several sets of particles
+[*] Added Attribute/Affinity system
+[*] Adjusted the character menu
+[*] Overhauled Halibel's "Cascada" attack
+[*] Added a new button in the character menu to toggle a character's theme song
+[*] Added properties to the C-Menu > Right click for all characters (some characters have special properties you can use)
+[*] Characters that transform now prioritize transforming when ignited
+[*] Fixed an animation bug with blocking
+[*] Added attack trails to characters that were missing them
+[*] Orihime now passively gains ignition meter
+[*] Fixed Ulquiorra (1st Release) using the wrong Cero particle
+[*] Added visual screen effects when clashing
+[*] Fixed Aizen (4th Fusion)'s eye textures being incorrect
+[*] Fixed stuttering when controlling a NPC and moving
+[*] Improved music system and added looping point control
+[*] Fixed a bug with the music system where themes would reset when transforming
+[*] Revamped Zangetsu (Vasto-Lorde)
+[*] Added on-screen indicators for the EXP/Level system (instead of using the game chat)
+[*] Adjusted/fixed the level scaling system
+[*] Fixed several character's flinch animations
+[*] Adjusted/added to all of Aizen's spirit moves to make him feel more unique per form
+[*] Ulquiorra (both forms) has a new spirit move: High-Speed Regeneration
+[*] Revamped Ulquiorra's transformation process/animations
+[*] Added a built-in hook for gm_lasnoches that improves the map visually so you don't get flashbanged on it
+[*] Fixed a bug with multiplayer where the HUD would disappear
+[*] Reworked Szayelaporro (Resurrección)'s 'Teatro de Titere' attack
+[*] Fixed Toshiro's final aerial attack not doing anything
+[*] Soul Ignition's burst damage will no longer trigger the 'camera slow down' effect
+[*] Fixed Halibel's range attack distance being incorrect (she basically couldn't range attack when AI controlled)
+[*] Added a new spirit move for Toshiro: Guncho Tsurara
+[*] Added a new spirit move for Halibel: Hirviendo
+[*] Ichigo (Vasto Lorde) no longer gains ignition meter through attacking/damage
+
+And much more that I probably almost definitely forgot to document!
