@@ -61,6 +61,6 @@
 [*] Added all of my nodegraph files for the Bleach maps on the workshop (some of them won't work without you hexing the empty .ain file out of the maps, but Rubat may be working on a fix for empty .ain nodegraphs soon anyway)
 [*] Aizen now gains 150 fusion meter when in low-HP state
 [*] Fixed Aizen (2nd Fusion)'s low-HP state bodygroup not applying
-[*] Removed a lot of redudent code
+[*] Removed a lot of redundant code
 
 And much more that I probably almost definitely forgot to document!
