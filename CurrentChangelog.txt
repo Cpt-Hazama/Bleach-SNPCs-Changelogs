@@ -45,6 +45,22 @@
 [*] Fixed Halibel's range attack distance being incorrect (she basically couldn't range attack when AI controlled)
 [*] Added a new spirit move for Toshiro: Guncho Tsurara
 [*] Added a new spirit move for Halibel: Hirviendo
-[*] Ichigo (Vasto Lorde) no longer gains ignition meter through attacking/damage
+[*] Ichigo (Vasto Lorde) and Zangetsu (Vasto Lorde) no longer gain ignition meter through attacking/damage
+[*] Fixed Orihime's projectiles not damaging targets properly
+[*] Orihime's shield is now removed whenever she does her ignition attack
+[*] Fixed Szayelaporro (Resurrección) not having any character dialogue
+[*] Fixed Szayelaporro (Resurrección)'s HUD icon
+[*] Updated Toshiro's HUD icon
+[*] Added a new character menu function OnCostumeChange(ent,cosID,cosMDL)
+[*] Nerfed Halibel's special attacks damage
+[*] Some special attacks (namely Ceros and Lanza del Relampago) now illuminate the world/entities
+[*] Gave several characters multi-directional walking
+[*] Toshiro now has 5 SP bars (was 4)
+[*] Fixed Kenpachi's range attack animations
+[*] When using Uryu's special attack, your camera now resets to front-facing instead of remaining where the special camera position was
+[*] Added all of my nodegraph files for the Bleach maps on the workshop (some of them won't work without you hexing the empty .ain file out of the maps, but Rubat may be working on a fix for empty .ain nodegraphs soon anyway)
+[*] Aizen now gains 150 fusion meter when in low-HP state
+[*] Fixed Aizen (2nd Fusion)'s low-HP state bodygroup not applying
+[*] Removed a lot of redudent code
 
 And much more that I probably almost definitely forgot to document!
