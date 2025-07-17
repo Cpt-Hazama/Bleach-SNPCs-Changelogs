@@ -62,5 +62,7 @@
 [*] Aizen now gains 150 fusion meter when in low-HP state
 [*] Fixed Aizen (2nd Fusion)'s low-HP state bodygroup not applying
 [*] Removed a lot of redundant code
+[*] Aizen (4th Fusion) can now only transform when he is in low-HP state
+[*] Added an on-screen indicator for when you're in low HP state
 
 And much more that I probably almost definitely forgot to document!
