@@ -64,5 +64,8 @@
 [*] Removed a lot of redundant code
 [*] Aizen (4th Fusion) can now only transform when he is in low-HP state
 [*] Added an on-screen indicator for when you're in low HP state
+[*] Aizen now utilizes Kyoka Suigetsu mid-combo just like players can
+[*] Soul Ignition now displays the spirt move name (before there was zero display for it)
+[*] Soul Ignition music will now start the moment the animation does, rather than waiting on the burst effect
 
 And much more that I probably almost definitely forgot to document!
