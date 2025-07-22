@@ -67,5 +67,8 @@
 [*] Aizen now utilizes Kyoka Suigetsu mid-combo just like players can
 [*] Soul Ignition now displays the spirit move name (before there was zero display for it)
 [*] Soul Ignition music will now start the moment the animation does, rather than waiting on the burst effect
+[*] Added new (and revamped) Szayelaporro voice lines
+[*] Aizen's Kyoka Suigetsu no longer effects the following characters: Ichigo Kurosaki, Orihime Inoue, Uryu Ishida, Kokuto, Zangetsu and Sosuke Aizen
+[*] Reduced Szayelaporro (Resurrección)'s health from 16,000 to 10,000
 
 And much more that I probably almost definitely forgot to document!
