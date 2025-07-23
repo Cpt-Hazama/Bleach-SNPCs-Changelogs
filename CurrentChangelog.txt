@@ -72,5 +72,8 @@
 [*] Reduced Szayelaporro (Resurrección)'s health from 16,000 to 10,000
 [*] Fixed Aizen (5th Fusion)'s wing eye textures
 [*] Aizen now has a special input; pressing X during another character's ignition attack (while you have 3 SP Bars) will allow Aizen to use Kyoka Suigetsu, completely avoiding the attack all together
+[*] Fixed an error with the menu regarding custom spirit moves
+[*] Fixed lock-on voice lines overriding special interaction voice lines
+[*] Added more lines to Aizen + adjusted some old ones
 
 And much more that I probably almost definitely forgot to document!
