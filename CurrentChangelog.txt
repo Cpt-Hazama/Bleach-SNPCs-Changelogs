@@ -6,6 +6,7 @@
     [*] Renji Abarai (Shikai)
     [*] Luppi Antenor (Resurrección)
     [*] Ichigo Kurosaki (True Shikai)
+    [*] Captain Aizen
 [/list]
 [*] Fixed a ton of bugs that I forgot to document
 [*] Added eye movement system
@@ -75,5 +76,28 @@
 [*] Fixed an error with the menu regarding custom spirit moves
 [*] Fixed lock-on voice lines overriding special interaction voice lines
 [*] Added more lines to Aizen + adjusted some old ones
+[*] Increased default chance of characters using Ignition attacks
+[*] Aizen (4th Fusion) will now always make 3 orbs for his air spirit move
+[*] Nnoitora now gains a new ignition attack when 'Six Arms' is activated
+[*] Fixed Starrk's cero hitboxes
+[*] Fixed Kokuto's block end animation (it for some reason had 20+ frames of nothing at the end, causing him to freeze)
+[*] Rimlighting is now dynamic to the map's world lighting
+[*] Fixed Ichigo (Despair) not using his correct spirit move
+[*] Fixed various Ichigo spirit move display names
+[*] Ichigo (Dangai) now has super-armor
+[*] Character menu now plays a different background track
+[*] Character menu will now play a random voice line of the selected character after 3 seconds
+[*] Aizen (4th Fusion) now properly uses his Hado 90 ultimate if you're not in low-HP state
+[*] Added layered health bar system
+[*] Fixed a bug where characters would run to the origin of the map instead of strafing (this was caused by them running the strafe code with no goal set, so you should see them strafe in combat now)
+[*] Fixed a bug where characters would rocket into space when caught on fire
+[*] Gave Halibel a new ultimate attack
+[*] Fixed Ichigo (Dangai)'s Mugetsu frequently missing
+[*] Fixed Ichigo (Dangai)'s Mugetsu displaying the HUD when it shouldn't have been
+[*] Added a new down spirit move to Ichigo (Vasto Lorde); "Hoko"
+[*] Adjusted Kokuto's ultimate attack
+[*] Fixed a naming mistake in Ulquiorra's attacks
+[*] Fixed the sound pitch on Ulquiorra's voice lines
+[*] Fixed Zangetsu (Vasto Lorde) not gaining passive ignition meter
 
 And much more that I probably almost definitely forgot to document!
