@@ -84,7 +84,6 @@
 [*] Rimlighting is now dynamic to the map's world lighting
 [*] Fixed Ichigo (Despair) not using his correct spirit move
 [*] Fixed various Ichigo spirit move display names
-[*] Ichigo (Dangai) now has super-armor
 [*] Character menu now plays a different background track
 [*] Character menu will now play a random voice line of the selected character after 3 seconds
 [*] Aizen (4th Fusion) now properly uses his Hado 90 ultimate if you're not in low-HP state
@@ -99,5 +98,14 @@
 [*] Fixed a naming mistake in Ulquiorra's attacks
 [*] Fixed the sound pitch on Ulquiorra's voice lines
 [*] Fixed Zangetsu (Vasto Lorde) not gaining passive ignition meter
+[*] Added 'Shared Boss Faction' option
+[*] Added 'Health Stocks' option
+[*] Aizen (4th Fusion) now has super armor
+[*] Ichigo (Dangai) now has super armor
+[*] Ichigo (Vasto Lorde) now has super armor
+[*] Ulquiorra (Segunda Etapa) now has super armor
+[*] Zangetsu (Vasto Lorde) now has super armor
+[*] Better setup the Boss system to allow users to easily create Raid Boss Battles
+[*] Fixed an error with Orihime
 
 And much more that I probably almost definitely forgot to document!
