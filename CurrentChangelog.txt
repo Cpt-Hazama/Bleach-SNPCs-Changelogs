@@ -107,5 +107,9 @@
 [*] Zangetsu (Vasto Lorde) now has super armor
 [*] Better setup the Boss system to allow users to easily create Raid Boss Battles
 [*] Fixed an error with Orihime
+[*] Fixed certain attacks ignoring relationships entirely
+[*] Fixed a rare error with animations
+[*] Added additional UI sounds for certain events
+[*] Fixed a bug with the Boss music system
 
 And much more that I probably almost definitely forgot to document!
