@@ -8,6 +8,10 @@
     [*] Ichigo Kurosaki (True Shikai)
     [*] Captain Aizen
 [/list]
+[*] Added a new mob enemy
+[list]
+    [*] Arrancar Bero
+[/list]
 [*] Fixed a ton of bugs that I forgot to document
 [*] Added eye movement system
 [*] Fixed Soi-Fon being able to use her insta-kill on targets with spirit energy way higher than hers
@@ -111,5 +115,7 @@
 [*] Fixed a rare error with animations
 [*] Added additional UI sounds for certain events
 [*] Fixed a bug with the Boss music system
+[*] Szayelaporro now summons Bero instead of Rudbornn
+[*] Fixed a bug with a few characters that caused them to freeze after cetain spirit moves
 
 And much more that I probably almost definitely forgot to document!
