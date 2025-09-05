@@ -1,1 +1,12 @@
-[*] 
+[*] Characters Menu now auto-hides the character list when your mouse isn't over there (the character also moves)
+[*] Aizen (3rd Fusion) now has a new combo string route
+[*] Ulquiorra (Segunda Etapa) now has a new combo string route
+[*] Increased Ulquiorra (Segunda Etapa)'s attacks speed
+[*] Certain soul ignition attacks now destroy multiple health stocks
+[*] Added a new costume for Ichigo (Despair Bankai); Ichigo (Dangai Training)
+[*] Fixed Dangai Ichigo's Mugetsu being useless against health stocks (will always destroy them all)
+[*] Revamped Kokuto's camera animations
+[*] Kokuto's ground spirit move now has an initial burst damage
+[*] Gave more expressions to multiple characters
+[*] Improved Orihime's AI
+[*] You can now right click on a character in the spawn menu to select their costume when spawning in
