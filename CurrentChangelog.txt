@@ -1,3 +1,4 @@
+[*] Fixed several errors in the mod
 [*] Characters Menu now auto-hides the character list when your mouse isn't over there (the character also moves)
 [*] Aizen (3rd Fusion) now has a new combo string route
 [*] Ulquiorra (Segunda Etapa) now has a new combo string route
@@ -10,3 +11,21 @@
 [*] Gave more expressions to multiple characters
 [*] Improved Orihime's AI
 [*] You can now right click on a character in the spawn menu to select their costume when spawning in
+[*] Fixed Aizen's Hogyoku meter going beyond what it's supposed to on the HUD
+[*] Fixed NPCs/Nextbots moving during cinematic time freeze animations
+[*] Overhauled how damage force applies to airborne characters
+[*] Removed redundant code
+[*] Completely overhauled Grimmjow with visual enhancements, move adjustments, and his new Fury meter system
+[*] Fixed Grimmjow being mute
+[*] Fixed Grimmjow falling if he did his ultimate in the air
+[*] Added a new option to make Ichigo always hollowfied
+[*] Dangai Ichigo now prioritizes reaching his Final Getsuga Tenshou
+[*] Fixed Vasto Lorde Ichigo's aerial spirit move not working
+[*] Adjusted Shunsui's custom HUD elements
+[*] Characters in the mod now have their colors indicated in their code, allowing Shunsui's color technique to function 100x better in the mod
+[*] Selecting the same color input as Shunsui will disable your selected color now
+[*] Shunsui's AI will now call the color of his targets instead of being random
+[*] Fixed Shunsui not taking additional damage if his own color was damaged
+[*] Fixed Szayelaporro not dealing additional health stocks for the Heart organ
+[*] Fixed Toshiro's damage range
+[*] Improved Uryu's visual effects
