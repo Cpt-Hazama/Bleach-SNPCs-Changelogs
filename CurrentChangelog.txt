@@ -29,3 +29,12 @@
 [*] Fixed Szayelaporro not dealing additional health stocks for the Heart organ
 [*] Fixed Toshiro's damage range
 [*] Improved Uryu's visual effects
+[*] Added visual effects for Aizen's pre-transformation attack
+[*] Aizen (3rd Fusion)'s soul ignition attack now destroys 3 health stocks
+[*] Aizen (4th Fusion)'s soul ignition attack now destroys 4 health stocks
+[*] Aizen (5th Fusion)'s soul ignition attack now destroys 5 health stocks
+[*] Ichigo (Vasto Lorde)'s soul ignition attack now destroys 2 health stocks
+[*] Ulquiorra (Segunda Etapa)'s soul ignition attack now destroys 3 health stocks
+[*] Zangetsu (Vasto Lorde)'s soul ignition attack now destroys 3 health stocks
+[*] Fixed a major oversight in the DrawText function that disallowed custom fonts
+[*] Added a combo meter to the HUD
