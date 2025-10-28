@@ -38,3 +38,15 @@
 [*] Zangetsu (Vasto Lorde)'s soul ignition attack now destroys 3 health stocks
 [*] Fixed a major oversight in the DrawText function that disallowed custom fonts
 [*] Added a combo meter to the HUD
+[*] Added a block meter gauge to the bottom of the screen (only appears when blocking and losing meter)
+[*] Added a fallback method for when a character gets stuck on top of another NPC/Player/NextBot (they will attempt to jump off of them)
+[*] Fixed a visual bug with the guard breaking effects
+[*] Buffed Orihime's ally healing amount (now heals them for 50% of their max HP, rather than a static amount of 1,500)
+[*] Orihime's healing will now give life stocks if the incoming heal amount is greater than the character's max health
+[*] Fixed Soi-Fon's attacks not setting proper velocity on targets
+[*] Fixed Soi-Fon being able to do her ground range attack in the air
+[*] Fixed the wind-pressure based range attacks not doing any damage
+[*] Added an initial effect for Soi-Fon's 'Kuretsusen'
+[*] Both Yoruichi and Soi-Fon's dagger projectiles now inflict poison status
+[*] Crosshair is now disabled when controlling a character
+[*] Optimizations on the HUD
