@@ -1,10 +1,27 @@
+[*] Added 4 new characters
+[list]
+    [*] Yasutora Sado (Chad)
+    [*] Shinji Hirako (Shikai)
+    [*] Mayuri Kurosuchi (Shikai)
+    [*] Kaname Tosen (Shikai)
+[/list]
+[*] Added 2 new costumes
+[list]
+    [*] Ichigo (Despair Bankai)
+    [list]
+        [*] Dangai Training
+    [/list]
+    [*] Nelliel Tu Odelschwanck
+    [list]
+        [*] Espada Attire
+    [/list]
+[/list]
 [*] Fixed several errors in the mod
 [*] Characters Menu now auto-hides the character list when your mouse isn't over there (the character also moves)
 [*] Aizen (3rd Fusion) now has a new combo string route
 [*] Ulquiorra (Segunda Etapa) now has a new combo string route
 [*] Increased Ulquiorra (Segunda Etapa)'s attacks speed
 [*] Certain soul ignition attacks now destroy multiple health stocks
-[*] Added a new costume for Ichigo (Despair Bankai); Ichigo (Dangai Training)
 [*] Fixed Dangai Ichigo's Mugetsu being useless against health stocks (will always destroy them all)
 [*] Revamped Kokuto's camera animations
 [*] Kokuto's ground spirit move now has an initial burst damage
@@ -50,3 +67,31 @@
 [*] Both Yoruichi and Soi-Fon's dagger projectiles now inflict poison status
 [*] Crosshair is now disabled when controlling a character
 [*] Optimizations on the HUD
+[*] Complete overhaul of Aizen (5th Fusion)
+[list]
+    [*] Now has a new "run" animation (he floats, he is much faster now compared to his normal walking)
+    [*] Complete voice and sound effect changes
+    [*] He can now jump
+    [*] He can now fly
+    [*] He can now be thrown around and grabbed like other characters (granted, you gotta break his super armor)
+    [*] His ultimate is now faster
+    [*] Fixed some bugs with his attacks and what not
+    [*] New visuals for when he teleports
+    [*] His teleport now has a low-range/low-damage AoE on entry/exit
+    [*] His unique dodge has been revamped, you now *actually* dodge attacks rather than getting stuck on stuff
+[/list]
+[*] Added a temporary fix to the controller system until Rubat fixes whatever the fuck he did that broke Disposition()
+[*] Added a higher chance of strafing in combat
+[*] Fixed block system, its now 10x smoother
+[*] Fixed the charge-end sound playing even if you werent charging to begin with
+[*] Fixed Kenpachi's down special not damaging the grabbed target
+[*] Kenpachi's down special now knocks enemies out of the way
+[*] Added a new down special for Soi-Fon; Kessatsu no Kamae
+[*] Fixed Soi-Fon's special loop animation getting cut off
+[*] Fixed Soi-Fon's transition from special to idle
+[*] Made Soi-Fon's special a bit more accurate
+[*] Fixed Soi-Fon's mouth not moving for voice lines
+[*] New effects for Starrk
+[*] Reduced the required amount of SP needed for Starrk's basic attacks
+[*] Fixed a missing model error related to VJ Base
+[*] Updated some icons
