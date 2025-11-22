@@ -95,3 +95,5 @@
 [*] Reduced the required amount of SP needed for Starrk's basic attacks
 [*] Fixed a missing model error related to VJ Base
 [*] Updated some icons
+[*] New effects/sounds for Fullbringer movement
+[*] Added a new spirit move to certain versions of Ichigo/Zangetsu; 'Getsuga Matoi'
