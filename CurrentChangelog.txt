@@ -97,3 +97,9 @@
 [*] Updated some icons
 [*] New effects/sounds for Fullbringer movement
 [*] Added a new spirit move to certain versions of Ichigo/Zangetsu; 'Getsuga Matoi'
+[*] If any of Aizen's forms are set as bosses, he gains access to new abilities
+[*] Fixed Aizen's Hado 90 having inconsistent damage bounds
+[*] Greatly reduced the rate in which characters gain ignition meter
+[*] Fixed Szayelaporro (Resurrection) having difficulties hitting enemies
+[*] Fixed the spawnmenu settings being impossible to see for light-mode users
+[*] Fixed a bug where characters would be unable to do anything randomly after getting thrown
