@@ -5,15 +5,11 @@
     [*] Mayuri Kurosuchi (Shikai)
     [*] Kaname Tosen (Shikai)
 [/list]
-[*] Added 2 new costumes
+[*] Added 1 new costume
 [list]
     [*] Ichigo (Despair Bankai)
     [list]
         [*] Dangai Training
-    [/list]
-    [*] Nelliel Tu Odelschwanck
-    [list]
-        [*] Espada Attire
     [/list]
 [/list]
 [*] Fixed several errors in the mod
@@ -103,3 +99,6 @@
 [*] Fixed Szayelaporro (Resurrection) having difficulties hitting enemies
 [*] Fixed the spawnmenu settings being impossible to see for light-mode users
 [*] Fixed a bug where characters would be unable to do anything randomly after getting thrown
+[*] Better character menu text scaling
+[*] Fixed an error with Aizen (1st/Captain)
+[*] Added a timed warning when controlling NPCs regarding the new bug caused by the latest Garry's Mod update
