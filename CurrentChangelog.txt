@@ -102,3 +102,4 @@
 [*] Better character menu text scaling
 [*] Fixed an error with Aizen (1st/Captain)
 [*] Added a timed warning when controlling NPCs regarding the new bug caused by the latest Garry's Mod update
+[*] Soul Ignition world dimming now has a slight hue that matches the character's aura color
