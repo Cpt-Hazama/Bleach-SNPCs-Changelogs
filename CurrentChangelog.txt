@@ -1,7 +1,28 @@
-[i][b]Version 1.2.1[/b][/i]
-[*] Added new walking animations for Yoruichi
-[*] Fixed Yoruichi's animation speed getting messed up after using her counter
-[*] Increased Yourichi's attack velocity speed
-[*] Added new effects for Yoruichi's soul ignition
-[*] Added new particles to the training map
-[*] Fixed Aizen (5th Fusion) not being able to range attack in the air
+[i][b]Version 1.2.2[/b][/i]
+[list]
+[*] Added several new characters
+[list]
+    [*] Ichigo Kurosaki (Initial Form)
+    [*] Uryu Ishida (Soul Society / Letzt Stil)
+[/list]
+[*] Added several new generic characters
+[list]
+    [*] Kido Corps Member
+    [*] Blade Ripper
+[/list]
+[*] New default attack string for Aizen (4th Fusion)
+[*] Revamped Tier Halibel
+[list]
+    [*] Now has a 'Moisture Meter' that limits her fighting capability
+    [*] Visual effect changes
+    [*] Reduced spirit energy regeneration amount
+    [*] Cascada now requires 3 SP bars instead of 1
+[/list]
+[*] Ichigo (TYBW) now has super armor
+[*] Renji's attacks now hit multiple times
+[*] Fixed Starrk's mouth now moving when he spoke
+[*] Fixed Starrk's ultimate's particles not appearing
+[*] Fixed Starrk's Cero texture being oversaturated
+[*] New idle animation for Starrk
+[*] Various bug fixes / improvements
+[/list]
