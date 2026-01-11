@@ -24,5 +24,13 @@
 [*] Fixed Starrk's ultimate's particles not appearing
 [*] Fixed Starrk's Cero texture being oversaturated
 [*] New idle animation for Starrk
+[*] Aizen (4th Fusion) now has 6 SP bars
+[*] Aizen (5th Fusion) now has 8 SP bars
+[*] Ichigo (Dangai) now has 8 SP bars
+[*] Ichigo (TYBW) now has 7 SP bars
+[*] Zangetsu (VL) now has 8 SP bars
+[*] Zangetsu (VL)'s neutral spirit move now costs 3 SP bars
+[*] Locked-on targets now have a proper HUD display
+[*] Added new particles when Ichigo is applying his hollow mask
 [*] Various bug fixes / improvements
 [/list]
