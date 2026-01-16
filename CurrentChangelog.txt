@@ -33,4 +33,6 @@
 [*] Locked-on targets now have a proper HUD display
 [*] Added new particles when Ichigo is applying his hollow mask
 [*] Various bug fixes / improvements
+[*] Completely changed Ichigo Kurosaki (Dangai)'s aerial spirit move
+[*] Aizen's 'Kyoka Suigetsu' ultimate counter no longer works on characters that have never seen his Zanpakuto (for example, Ichigo)
 [/list]
