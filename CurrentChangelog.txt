@@ -10,6 +10,10 @@
     [*] Kido Corps Member
     [*] Blade Ripper
 [/list]
+[*] Added a new costume
+[list]
+    [*] Nelliel Tu Odelschwanck (Espada Uniform)
+[/list]
 [*] New default attack string for Aizen (4th Fusion)
 [*] Revamped Tier Halibel
 [list]
@@ -35,4 +39,7 @@
 [*] Various bug fixes / improvements
 [*] Completely changed Ichigo Kurosaki (Dangai)'s aerial spirit move
 [*] Aizen's 'Kyoka Suigetsu' ultimate counter no longer works on characters that have never seen his Zanpakuto (for example, Ichigo)
+[*] Fixed Toshiro's neutral special ice pillars getting stuck forever
+[*] Toshiro's air special now drags hit targets and freezes them
+[*] Aizen's air special (hogyoku orbs) no longer causes throw damage
 [/list]
