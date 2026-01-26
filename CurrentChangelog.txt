@@ -42,4 +42,6 @@
 [*] Fixed Toshiro's neutral special ice pillars getting stuck forever
 [*] Toshiro's air special now drags hit targets and freezes them
 [*] Aizen's air special (hogyoku orbs) no longer causes throw damage
+[*] Fixed Soul Ignition animations cutting off or lagging behind the timers (you WILL notice a big difference in-game)
+[*] Orihime's ult now heals her own life stocks, just as she did for friendly NPCs
 [/list]
