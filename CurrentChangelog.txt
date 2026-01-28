@@ -44,4 +44,22 @@
 [*] Aizen's air special (hogyoku orbs) no longer causes throw damage
 [*] Fixed Soul Ignition animations cutting off or lagging behind the timers (you WILL notice a big difference in-game)
 [*] Orihime's ult now heals her own life stocks, just as she did for friendly NPCs
+[*] While Tosen's bankai is active, characters can no longer shunpo-counter him
+[*] Baraggan's passive Respira now inflicts Respira-Status
+[*] Buffed Baraggan's ultimate damage
+[*] Nerfed Byakuya's overall damage in all of his attacks
+[*] Nerfed Gin's basic attacks damage
+[*] Gin's damage distance is now accurate to his blade length
+[*] Buffed Grimmjow's basic attacks damage
+[*] Ichigo's Getsuga Tenshou no longer causes a throw effect on hit characters
+[*] Nerfed Ichigo (TYBW)'s basic attacks damage
+[*] Nerfed Ichigo (Vasto Lorde)'s basic attacks damage
+[*] Kokuto's ranged slashes no longer cause throw effect on hit characters
+[*] Kokuto's chains now hit 5 times per instance (does not increase his damage)
+[*] Soi-Fon's bankai projectile now has slight tracking on her lock-on target
+[*] Nerfed Szayelaporro's basic attacks damage
+[*] Fixed a bug with Uryu where he could only use Blut once
+[*] Nerfed Yoruichi's overall damage
+[*] Selecting a music track from the menu while controlling a character now changes the track to that one
+[*] Added a 'Toggle Next Track' button to the menu, useful for the 'Randomly Select' music track option
 [/list]
